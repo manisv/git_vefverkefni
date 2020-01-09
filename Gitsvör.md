@@ -17,3 +17,4 @@
 
 4. er stýring til að sjá útgáfur og hvaða útgáfu viltu fara í
 5. Til þess að geyma kóða,sýna kóða og vinna með einhverjum og bara hversu lét það er að nota
+6. Þegar þú gerir margar breyttingar í verkefninu
