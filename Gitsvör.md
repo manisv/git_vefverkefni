@@ -14,3 +14,5 @@
 * Sýnir allt sem hefur verið í git skjalinu væri gott til að vita hvað hefur verið eytt
 * Skiptir um branch gæti bara verið gott til að skipta um branch
 * leyfir þér að búa til, nefna og eyða branches
+
+4. er stýring til að sjá útgáfur og hvaða útgáfu viltu fara í
