@@ -9,3 +9,8 @@
 * það tekur afrit á rep og niðurhleður því
 * það sýnir hvaða directory þú ert staddur í og hvaða breytingar hafa verið gerðar
 * það ber saman breytt skjöl í gitinu
+
+## 3.Git skiparnir og hvaða gagn gera þær
+* Sýnir allt sem hefur verið í git skjalinu væri gott til að vita hvað hefur verið eytt
+* Skiptir um branch gæti bara verið gott til að skipta um branch
+* leyfir þér að búa til, nefna og eyða branches
