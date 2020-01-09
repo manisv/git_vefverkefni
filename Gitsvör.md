@@ -4,3 +4,8 @@
 * skipunin ls (list) er til þess að skoða innihaldið í directory
 * skipunin pwd (print working directory) sýnir hvar þú ert staddur
 * skipunin mkdir (make direcrtory) býr til nýtt direcrtory
+
+## 2.Git Spuringar
+* það tekur afrit á rep og niðurhleður því
+* það sýnir hvaða directory þú ert staddur í og hvaða breytingar hafa verið gerðar
+* það ber saman breytt skjöl í gitinu
