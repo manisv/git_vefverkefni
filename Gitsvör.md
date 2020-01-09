@@ -16,4 +16,4 @@
 * leyfir þér að búa til, nefna og eyða branches
 
 4. er stýring til að sjá útgáfur og hvaða útgáfu viltu fara í
-5. Til þess að geyma kóða,sýna kóða og vinna með einhverjum og bara hversu lét það er að nota
+5. Til þess að geyma kóða,sýna kóða og vinna með einhverjum og bara hversu lét það er að nota. það er lét að nota og mjög þægilegt þegar þú ert að vinna í hóðavinnu.
